@@ -141,7 +141,10 @@ with st.sidebar:
             17. Do not use very common words that AI often uses. 
             18. Please keep this in your mind. Use words that are not that common, use more unique words. Please mind this. Do not forget this.  
             19. Paraphrase every sentences, paragraph and etc to deep English. Use deep words, and unique words.  Please do not change the subject's name or the X name. 
-            20. Please mind this. Please do not forget this.  Please return the response in English.
+            20. Humanize AI text by simply follow tha above instrcution to parapharse the AI Text to human likehood written. You will completely remove AI text from given content and maintain the original meaning of the content/text. 
+            20. Open up the realm of exquisite watch faces when you access the Watch Face Gallery. It's a treasure trove of designs, from sleek and sophisticated to vibrant and artistic. No matter your style, there's a masterpiece waiting to adorn your wrist.
+
+
 
             """
             ]
